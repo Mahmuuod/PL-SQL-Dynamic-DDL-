@@ -44,6 +44,6 @@ Ensure your SQL client shows output messages to monitor progress:
 
 ```sql
 SET SERVEROUTPUT ON SIZE 1000000;
-
+```
 ## Testing Video : 
 - https://drive.google.com/file/d/11FgwqeSMux-ow8xfXbTlS7m_tJD4M7Ug/view?usp=sharing
